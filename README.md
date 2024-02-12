@@ -105,7 +105,7 @@ For this part of the assignment, use interactive visualizations and widgets to e
 
 5. Note that your resulting plot should appear similar to the following image:
 
-![A screenshot depicts an example of the resulting plot.](Images/6-4-pricing-info-by-neighborhood.png)
+
 
 6. Use the interactive visualization to answer the following question:
 
@@ -135,7 +135,7 @@ For this part of the assignment, explore the geospatial relationships in the dat
 
 Note that your resulting plot should appear similar to the following image:
 
-![A screenshot depicts an example of a scatter plot created with hvPlot and GeoViews.](Images/6-4-geoviews-plot.png)
+
 
 5. Use the interactive map to answer the following question:
 
